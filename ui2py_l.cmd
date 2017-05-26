@@ -1,0 +1,1 @@
+pyside-uic login.ui -o Ui_login.py -x

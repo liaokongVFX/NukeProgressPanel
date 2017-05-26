@@ -1,0 +1,1 @@
+pyside-uic InsertShotPanel.ui -o Ui_InsertShotPanel.py -x
